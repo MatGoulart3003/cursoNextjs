@@ -6,3 +6,5 @@
 - [React] componente usando props
 - [React] componente com events
 - [React] componente com states
+- [React] comunicação entre componentes (direta)
+- [React] comunicação entre componentes (indireta)
