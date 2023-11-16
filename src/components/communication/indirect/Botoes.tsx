@@ -9,7 +9,7 @@ export function Botoes(props: BotoesProps){
             <button className="button" onClick={() => props.incrementar(10)}>
                 Incrementa 
             </button>
-            <button className="button" onClick={() => props.decrementar(5)}>
+            <button className="button" onClick={() => props.decrementar(10)}>
                 Decrementa 
             </button>
         </div>
