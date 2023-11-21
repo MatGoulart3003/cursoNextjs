@@ -11,6 +11,6 @@
 - [React] renderização condicional concluído
 - [React] renderização de lista concluído
 - [React] componente de layout com grid concluído
-- [React] hooks personalizados 
-- [React] chamar api 
+- [React] hooks personalizados concluído
+- [React] chamar api concluído
 - [React] hooks... useState, useEffect e useCallBack
