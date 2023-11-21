@@ -1,13 +1,16 @@
 # Aspectos Abordados
 
-- [NEXT] pasta pages gera as rotas (urls)
-- [React] primeiro componente
-- [React] componente usando props.children
-- [React] componente usando props
-- [React] componente com events
-- [React] componente com states
-- [React] comunicação entre componentes (direta)
-- [React] comunicação entre componentes (indireta)
-- [React] renderização condicional
-- [React] renderização de lista
-- [React] 
+- [NEXT] pasta pages gera as rotas (urls) concluído
+- [React] primeiro componente concluído
+- [React] componente usando props.children concluído
+- [React] componente usando props concluído
+- [React] componente com events concluído
+- [React] componente com states concluído
+- [React] comunicação entre componentes (direta) concluído
+- [React] comunicação entre componentes (indireta) concluído
+- [React] renderização condicional concluído
+- [React] renderização de lista concluído
+- [React] componente de layout com grid concluído
+- [React] hooks personalizados 
+- [React] chamar api 
+- [React] hooks... useState, useEffect e useCallBack
